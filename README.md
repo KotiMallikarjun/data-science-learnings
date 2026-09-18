@@ -2,7 +2,7 @@
 
 This repository contains my hands-on learning and practice work across Data Analytics, Statistics, Machine Learning, NLP, Deep Learning, and Time Series Analysis.
 
-## 📚 Areas Covered
+##  Areas Covered
 
 ### Python & Statistics
 - Python fundamentals
@@ -44,10 +44,10 @@ This repository contains my hands-on learning and practice work across Data Anal
 - Time-based feature engineering
 - Trend analysis
 
-## 🛠️ Technologies
+##  Technologies
 
 Python | Pandas | NumPy | Matplotlib | Scikit-learn | TensorFlow | Jupyter Notebook
 
-## 🎯 Purpose
+##  Purpose
 
 This repository documents my practical learning journey and demonstrates hands-on experience with common data science and machine learning techniques.
